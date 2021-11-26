@@ -1,17 +1,6 @@
-# Load libraries
 import pandas as pd
-import numpy as np
-
-from sklearn.preprocessing import StandardScaler 
-from sklearn.preprocessing import PolynomialFeatures as plf
-from sklearn import metrics
-from sklearn.metrics import confusion_matrix
-from sklearn.metrics import classification_report
-from sklearn.linear_model import LogisticRegression
-from sklearn.model_selection import cross_val_predict as cvp
-
-from imblearn.over_sampling import RandomOverSampler
-from imblearn.under_sampling import RandomUnderSampler
+import matplotlib.pyplot as plt
+import seaborn as sns
 
 # Jack's confusion matrix plotter
 def plot_confusion_matrix(cm, class_labels):
