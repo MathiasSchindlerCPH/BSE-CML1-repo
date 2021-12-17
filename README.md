@@ -11,4 +11,4 @@ Coursework for *Computational Machine Learning 1*, taught in Term 1, at the Barc
 
 
 * Project 3: Unsupervised Learning 
-  * PCA, SVD, *k*-means
+  * PCA, SVD, *k*-means Clustering
