@@ -7,8 +7,8 @@ Coursework for *Computational Machine Learning 1*, taught in Term 1, at the Barc
 
 
 * Project 2: Linear Classification
-  * LogisticRegression, Binary  Prediction, Multiclass Prediction, ...
+  * LogisticRegression, Binary and Multiclass Predictions, Class Imbalance
 
 
 * Project 3: Unsupervised Learning 
-  * SVD, PCA, k-means, ...
+  * PCA, SVD, k-means, ...
