@@ -1,4 +1,4 @@
-# BSE-CML1-repo
+# BSE-T1-CML1-repo
 Coursework for *Computational Machine Learning 1*, taught in Term 1, at the Barcelona School of Economics, Class of '22. Three extended projects that together make up the entirety of the final grade for the course. 
 
 ## Overview of Topics
