@@ -14,4 +14,4 @@ Coursework for *Computational Machine Learning 1*, taught in Term 1, at the Barc
   * PCA, SVD, *k*-means Clustering
 
 ## Grade Achieved
-Final Grade Achieved: 8.5/10.0 (A-)
+Final Grade: 8.5/10.0 (A-)
