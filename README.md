@@ -13,5 +13,5 @@ Coursework for *Computational Machine Learning 1*, taught in Term 1, at the Barc
 * Project 3: Unsupervised Learning 
   * PCA, SVD, *k*-means Clustering
 
-## Grade Achieved
+## Grading
 Final Grade: 8.5/10.0 (A-)
